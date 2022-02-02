@@ -1,16 +1,11 @@
-# vakinha_burguer_mobile
+<p align="center">
+      <img src="https://lh3.googleusercontent.com/p/AF1QipMwDiUb8r23aSv9kYn5n6zf6vNbV1LhQuo6k0zk=s1600-w400" width="100" alt="Logo Vakinha Burguer"/>
+</p>
 
-A new Flutter project.
+<h2 align="center">Sobre 📖</h2>
 
-## Getting Started
+<p align="center">
+    Este projeto foi desenvolvido no Dart Week, uma semana intensa de estudos, networking, amizade, trabalho em grupo, acompanhado de um projeto sensacional desenvolvido pelo Rodrigo Rahman da Academia do Flutter de 31 a 06 de fevereiro de 2022.<br>
+</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
