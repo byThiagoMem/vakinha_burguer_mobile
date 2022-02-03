@@ -5,12 +5,14 @@ class ProductModel {
   final String name;
   final double price;
   final String image;
+  final String description;
 
   ProductModel({
     required this.id,
     required this.name,
     required this.price,
     required this.image,
+    required this.description,
   });
 
   Map<String, dynamic> toMap() {
@@ -19,6 +21,7 @@ class ProductModel {
       'name': name,
       'price': price,
       'image': image,
+      'description': description,
     };
   }
 
@@ -28,6 +31,7 @@ class ProductModel {
       name: map['name'] ?? '',
       price: map['price']?.toDouble() ?? 0.0,
       image: map['image'] ?? '',
+      description: map['description'] ?? '',
     );
   }
 
